@@ -1,6 +1,11 @@
 #define MODE PIN_B4
 #define INC PIN_B5
-#define CHANGE PIN_B6
+#define DEC PIN_B6
+
+//#define MODE PIN_B4
+//#define INC PIN_B5
+//#define DEC PIN_B6
+
 
 const byte DEZENA[10]
 {
